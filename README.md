@@ -44,4 +44,4 @@ TALIS 數據仍需以 OECD 公開微觀資料完成個人層級的交叉分析�
 
 GitHub Actions workflow 會在推送至 main 分支或手動派送時建置並部署至 GitHub Pages。
 
-GitHub Pages 網址：首次成功部署後補上。
+GitHub Pages 網址：[https://leeshuogre.github.io/digital-curation/](https://leeshuogre.github.io/digital-curation/)
